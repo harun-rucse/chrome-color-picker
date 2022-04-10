@@ -1,0 +1,8 @@
+{
+  "name": "chrome-color-picker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harun-rucse/chrome-color-picker.git",
+  "author": "Harun Or Rashid <s1810776113@ru.ac.bd>",
+  "license": "MIT"
+}
